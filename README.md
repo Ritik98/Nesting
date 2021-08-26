@@ -5,4 +5,4 @@ Used nesting Grid concept in this demo project.
 
 ## Github Link
 
-https://ritik98.github.io/Ritik98-Nesting/
+https://ritik98.github.io/Nesting/
